@@ -3,6 +3,7 @@ Authenticating Users quickly with the help of FAST-API and Token Authentication
 
 
 # IMPORTANT !!
+- Here the most important thing is that this repo is only for learning purpose...Whenever you create the back-end of your application never share your `SECRET_KEY` with others....and make the repo as `PRIVATE`.
 - I have created a fake database with data of only 1 user...you can integrate a database to store the values of multiple Users.
 - Also I have used Swagger UI of FAST-API....for a better understanding and Demonstration.
 - You can take the username and password  from the user while signing him/her up in frontend....and if the username and password match with the username & password stored in the database....the User will be provided the access Token.
