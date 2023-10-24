@@ -10,6 +10,14 @@ Authenticating Users quickly with the help of FAST-API and Token Authentication
 
 
 
+# Libraries required:-
+1. fast API            -    pip install fastapi
+2. uvicorn             -    pip install uvicorn[standard]
+3. python-multipart    -    pip install python-multipart
+4. python-jose         -    pip install python-jose[cryptography]
+5. passlib             -    pip install passlib[brcypt]
+
+
 # Video Demonstration - 
 1. I have used the OpenSSL to generate the SECRET_KEY
 2. Observe I haven't stored the hashed password for the user with username = "Amman"...that's why it doesn't matter what password you use to authorize it won't authenticate...
