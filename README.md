@@ -18,4 +18,6 @@ Authenticating Users quickly with the help of FAST-API and Token Authentication
 5. Then after this I demonstrated the other things you can do with this code.
 
 
-   :)
+
+
+😊⭐
